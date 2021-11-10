@@ -27,9 +27,6 @@ I'm a self-taught passionate FrontEnd developer from Shanghai
 #### Top Repositories
 
 
-<a href="https://github.com/hyyfrank/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=github-readme-stats&theme=buefy" />
-</a>
 <a href="https://github.com/hyyfrank/hyyfrank.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=hyyfrank.github.io&theme=buefy" />
 </a>
