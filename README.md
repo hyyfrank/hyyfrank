@@ -25,17 +25,8 @@ I'm a self-taught passionate full stack developer from Shanghai
  <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyyfrank&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Frank's github stats" /></a> 
 <br />
 <br />
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyfrank&langs_count=5&theme=tokyonight)]()
 
 
 
-#### Top Repositories
 
-
-<a href="https://github.com/hyyfrank/react_with_webpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=react_with_webpack&theme=buefy" />
-</a>
-
-<br />
-<br />
 
