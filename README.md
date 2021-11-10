@@ -8,17 +8,12 @@
 
 
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning k8s/cloud native
 
 - 📫 How to reach me: hyyfrank@gmail.com
 
-- ⚡ Fun fact: a good python/java/node/javascript/react/react-hook developer
+- ⚡ Fun fact: a good python/c++/opencv/java/node/javascript/react/react-hook developer
 
-
-<!-- - 🔭 I’m currently working on OSCP. -->
-Ask me anything [here](https://github.com/alichtman/alichtman/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
-
-<!-- [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=alichtman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hyyfrank/hyyfrank.github.io) -->
 
 
 
