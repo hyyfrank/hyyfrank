@@ -21,7 +21,7 @@ I'm a self-taught passionate FrontEnd developer from Shanghai
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Frank's github stats" /></a> | <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyyfrank&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyyfrank&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Frank's github stats" /></a> | <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyyfrank&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -31,7 +31,7 @@ I'm a self-taught passionate FrontEnd developer from Shanghai
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/hyyfrank/hyyfrank.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=hyyfrank.github.io&theme=buefy" />
 </a>
 
 <br />
