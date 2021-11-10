@@ -22,9 +22,12 @@ I'm a self-taught passionate full stack developer from Shanghai
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-| <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyyfrank&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Frank's github stats" /></a> | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyfrank&langs_count=5&theme=tokyonight)]()
+ <a href="https://github.com/hyyfrank/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyyfrank&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Frank's github stats" /></a> 
+<br />
+<br />
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyfrank&langs_count=5&theme=tokyonight)]()
 
-| ------------- | ------------- |
+
 
 #### Top Repositories
 
