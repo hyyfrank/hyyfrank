@@ -28,8 +28,8 @@ I'm a self-taught passionate full stack developer from Shanghai
 #### Top Repositories
 
 
-<a href="https://github.com/hyyfrank/hyyfrank.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=hyyfrank.github.io&theme=buefy" />
+<a href="https://github.com/hyyfrank/react_with_webpack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyfrank&repo=react_with_webpack&theme=buefy" />
 </a>
 
 <br />
