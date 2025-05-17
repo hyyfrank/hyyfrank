@@ -6,7 +6,7 @@ I'm a self-taught passionate full stack developer from HK
 
 - 💼 FULL STACK Engineer
 
-- ❤️ I love writing react/javascript/typescript/python/c++, and building cool tool for backend and automation
+- ❤️ I love writing python/c++/javascript, and building cool tool for backend and automation
 
 - 💬 Ask me about anything, my email: hyyfrank@gmail.com
 
