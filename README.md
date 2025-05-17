@@ -1,12 +1,12 @@
 
 
-I'm a self-taught passionate full stack developer from Shanghai
+I'm a self-taught passionate full stack developer from HK
 
 **About me**
 
-- 💼 FULL STACK Engineer at pls
+- 💼 FULL STACK Engineer
 
-- ❤️ I love writing opencv/react/javascript/python/c++, and building fun tool for backend and automation
+- ❤️ I love writing react/javascript/typescript/python/c++, and building cool tool for backend and automation
 
 - 💬 Ask me about anything, my email: hyyfrank@gmail.com
 
